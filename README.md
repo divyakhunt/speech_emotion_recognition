@@ -27,7 +27,6 @@ This project focuses on detecting human emotions from speech using a deep learni
 
 ### 🛠️ Built With
 
-
 - 🧪 **TensorFlow & Keras** — for building and training the neural network  
 - 🎵 **Librosa** — for audio feature extraction (MFCC, Chroma, ZCR, etc.)  
 - 🔊 **SoundFile** — for audio file handling
