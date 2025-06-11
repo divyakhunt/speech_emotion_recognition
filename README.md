@@ -6,7 +6,6 @@ This project focuses on detecting human emotions from speech using a deep learni
 
 - Built using **TensorFlow** and **Keras**
 - Uses **custom feature extraction** (MFCC, ZCR, Chroma, RMS)
-- **No use of Mel Spectrogram** (intentionally excluded)
 - **Bidirectional LSTM + CNN** architecture
 - **Data augmentation** performed for **'surprised'** emotion to handle class imbalance
 - Trained on **RAVDESS**, **TESS**, **CREMA-D**, and **SAVEE** datasets
