@@ -4,7 +4,7 @@ This project focuses on detecting human emotions from speech using a deep learni
 
 ## 📌 Highlights
 
-- Built using **TensorFlow** and **Keras**
+- Built using **TensorFlow, Keras, Librosa** and **SoundFile**
 - Uses **custom feature extraction** (MFCC, ZCR, Chroma, RMS)
 - **Bidirectional LSTM + CNN** architecture
 - **Data augmentation** performed for **'surprised'** emotion to handle class imbalance
@@ -22,6 +22,14 @@ This project focuses on detecting human emotions from speech using a deep learni
 | SAVEE | Surrey Audio-Visual Expressed Emotion Dataset | [🔗 SAVEE on Kaggle](https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee) |
 
 > Note: Downloading may require a Kaggle account and acceptance of dataset license terms.
+
+---
+
+### 🛠️ Built With
+
+- 🧪 **TensorFlow & Keras** — for building and training the neural network  
+- 🎵 **Librosa** — for audio feature extraction (MFCC, Chroma, ZCR, etc.)  
+- 🔊 **SoundFile** — for audio file handling
 
 ---
 
