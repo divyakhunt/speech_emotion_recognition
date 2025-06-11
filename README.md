@@ -105,10 +105,10 @@ Especially after applying data augmentation to the underrepresented **‘Surpris
 
 ## 📁 Project Files
 
-📁 speech-emotion-recognition/              
-├── speech_emotion_recognition.ipynb         # Colab/Jupyter notebook
-├── speech_emotion_model.keras               # Trained .keras model               
-└── README.md                                # Project documentation
+📁 speech-emotion-recognition/  
+├── 📓 speech_emotion_recognition.ipynb     — Jupyter Notebook (model training & evaluation)  
+├── 🧠 speech_emotion_model.keras           — Trained deep learning model  
+└── 📄 README.md                            — Project documentation
 
 ---
 
